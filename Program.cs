@@ -25,6 +25,7 @@ namespace trosso2024_BinaryNumbersinCSharp
         char b;
         b = (char)('A' + 1);
         Console.WriteLine($"'A' + 1 = '{b}'");
+        
         }
     }
 }
